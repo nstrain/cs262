@@ -1,0 +1,3 @@
+1.  homework social app. Keep track of due dates and form study groups.
+
+2.  Four year planner that generates planned schedules for a paticular major over all four years. 
