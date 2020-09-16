@@ -1,5 +1,5 @@
 <h1>CS 262 - Lab 1</h1>
-<h4>This lab is based on [Lab01](https://cs.calvin.edu/courses/cs/262/kvlinden/01introduction/lab.html)</h4>
+<h4>This lab is based on https://cs.calvin.edu/courses/cs/262/kvlinden/01introduction/lab.html</h4>
 
 This application displays "Hello Expo!"
 
