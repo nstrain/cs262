@@ -2,10 +2,10 @@
 <br><h4>This lab is based on https://cs.calvin.edu/courses/cs/262/kvlinden/07is/lab.html</h4>
 <br>
 <br><h6>Exercise 7.1</h6>
-<br>Player(<u>ID</u>, emailAddress, name)
-<br>PlayerGame(<u>gameID, playerID</u>, score, cash, position)
-<br>GameProperty(<u>gameID, property</u>, playerID, development)
-<br>Game (<u>ID</u>, time)
+<br>Player(<ins>ID</ins>, emailAddress, name)
+<br>PlayerGame(<ins>gameID, playerID</ins>, score, cash, position)
+<br>GameProperty(<ins>gameID, property</ins>, playerID, development)
+<br>Game (<ins>ID</ins>, time)
 <br>
 <br><h6>Exercise 7.2</h6>
 <br>-- Drop previous versions of the tables if they they exist, in reverse order of foreign keys.
